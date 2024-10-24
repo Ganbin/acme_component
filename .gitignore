@@ -38,3 +38,8 @@ key.pem
 /Documentation/Methods/acme_certCheckEndTest.md
 /Project/Sources/Methods/acme_certCheckEndTest.4dm
 /Project/Sources/Methods/test_.4dm
+index.html
+*.log
+*.4DD
+Project/DerivedData
+*.Match
